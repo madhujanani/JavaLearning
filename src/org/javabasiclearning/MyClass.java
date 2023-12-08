@@ -6,3 +6,4 @@ public class MyClass {
 	}
 
 }
+//git init,add,commit,remote
